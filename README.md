@@ -2,7 +2,10 @@
 BUAT NGERJAIN TEMEN YANG LAGI MAIN ML
 
 
-CARA RUN DI TERUS NYA 
+CARA RUN DI TERMUX NYA 
+
+---------------------------------
+
 pkg update && pkg upgrade -y
 pkg install git -y
 pkg instal php -y
